@@ -1,0 +1,28 @@
+_repo: JudasRomance-lirico-em-quatro-jornadas_27276
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lacerda, Augusto de
+    birthdate: 1864
+    deathdate: 1926
+    gutenberg_agent_id: '32588'
+    url: http://www.gutenberg.org/2009/agents/32588
+description: ''
+gutenberg_bookshelf: PT Teatro
+gutenberg_issued: '2008-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27276'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese drama'
+- !lcsh 'Bible plays'
+title: 'Judas: Romance lirico em quatro jornadas'
+url: http://www.gutenberg.org/ebooks/27276
